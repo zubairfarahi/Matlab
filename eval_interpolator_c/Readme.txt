@@ -1,5 +1,5 @@
 Name: farahi Zubair
-Grup: 315CD
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
                     1. eval_interpolator_c.m
